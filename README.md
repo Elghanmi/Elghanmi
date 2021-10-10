@@ -1,7 +1,9 @@
 ### Hi there, I'm Elghanmi Ahmed 👋
 
-
 ## I'm a student in Big Data at Ensa Berrchid , Developer!!
+
+![1_a0QugCWshiw6itQ7ugvSFQ](https://user-images.githubusercontent.com/67579903/136705663-33f118a7-d559-4646-8598-c82da9de2215.png)
+
 
 - 💻 I'm a Java/JEE developer.
 - 👨‍🎓 I'm studing Systems Informations and Big data in Morroco.
